@@ -1,4 +1,6 @@
-inode_modules
+node_modules
 .DS_Store
 .env
 npm-debug.log
+.nyc_output
+coverage

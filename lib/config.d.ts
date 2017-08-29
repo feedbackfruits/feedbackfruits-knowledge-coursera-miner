@@ -1,0 +1,1 @@
+export { NAME, KAFKA_ADDRESS, OUTPUT_TOPIC };
